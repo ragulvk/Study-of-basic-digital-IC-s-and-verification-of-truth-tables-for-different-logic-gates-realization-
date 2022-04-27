@@ -82,9 +82,9 @@ nor(y5,a,b);
 endmodule
 ```
 ## Logic symbol & Truthtable
-![](RAG1.Png)
+![](RAG1.png)
 ## RTL realization 
-![](RAG2.Png)
+![](RAG2.png)
 
 
 ## Result:
